@@ -1,0 +1,15 @@
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+D:\Курс Разработчик\I Четверть\4 Знакомство с языками программирования\Лекции\C#Lection1\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
